@@ -2,6 +2,8 @@
 
 This is a super basic RAG-style CampusGPT project for students.
 
+![CampusGPT Function Flow](campus_gpt_flow.svg)
+
 It uses:
 
 - Streamlit for the app
